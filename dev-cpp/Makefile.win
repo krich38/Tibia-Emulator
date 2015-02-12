@@ -1,0 +1,264 @@
+# Project: TheForgottenServer
+# Makefile created by Dev-C++ 4.9.9.2
+
+CPP  = g++.exe
+CC   = gcc.exe
+WINDRES = windres.exe
+RES  = obj-console//TheForgottenServer_private.res
+OBJ  = obj-console//actions.o obj-console//allocator.o obj-console//baseevents.o obj-console//beds.o obj-console//chat.o obj-console//combat.o obj-console//protocolold.o obj-console//condition.o obj-console//configmanager.o obj-console//connection.o obj-console//container.o obj-console//creature.o obj-console//creatureevent.o obj-console//cylinder.o obj-console//database.o obj-console//databasemysql.o obj-console//databasesqlite.o obj-console//depot.o obj-console//exception.o obj-console//fileloader.o obj-console//game.o obj-console//gui.o obj-console//house.o obj-console//housetile.o obj-console//inputbox.o obj-console//ioguild.o obj-console//iologindata.o obj-console//iomap.o obj-console//iomapserialize.o obj-console//item.o obj-console//items.o obj-console//luascript.o obj-console//mailbox.o obj-console//map.o obj-console//md5.o obj-console//monster.o obj-console//monsters.o obj-console//movement.o obj-console//networkmessage.o obj-console//npc.o obj-console//otserv.o obj-console//outfit.o obj-console//outputmessage.o obj-console//party.o obj-console//player.o obj-console//playerbox.o obj-console//position.o obj-console//protocol.o obj-console//protocolgame.o obj-console//protocollogin.o obj-console//quests.o obj-console//raids.o obj-console//rsa.o obj-console//scheduler.o obj-console//scriptmanager.o obj-console//server.o obj-console//sha1.o obj-console//spawn.o obj-console//spells.o obj-console//status.o obj-console//talkaction.o obj-console//tasks.o obj-console//teleport.o obj-console//textlogger.o obj-console//thing.o obj-console//tile.o obj-console//tools.o obj-console//trashholder.o obj-console//vocation.o obj-console//waitlist.o obj-console//weapons.o obj-console//ioban.o obj-console//globalevent.o obj-console//gameservers.o obj-console//databasemanager.o obj-console//admin.o obj-console//itemattributes.o obj-console//group.o $(RES)
+LINKOBJ  = obj-console//actions.o obj-console//allocator.o obj-console//baseevents.o obj-console//beds.o obj-console//chat.o obj-console//combat.o obj-console//protocolold.o obj-console//condition.o obj-console//configmanager.o obj-console//connection.o obj-console//container.o obj-console//creature.o obj-console//creatureevent.o obj-console//cylinder.o obj-console//database.o obj-console//databasemysql.o obj-console//databasesqlite.o obj-console//depot.o obj-console//exception.o obj-console//fileloader.o obj-console//game.o obj-console//gui.o obj-console//house.o obj-console//housetile.o obj-console//inputbox.o obj-console//ioguild.o obj-console//iologindata.o obj-console//iomap.o obj-console//iomapserialize.o obj-console//item.o obj-console//items.o obj-console//luascript.o obj-console//mailbox.o obj-console//map.o obj-console//md5.o obj-console//monster.o obj-console//monsters.o obj-console//movement.o obj-console//networkmessage.o obj-console//npc.o obj-console//otserv.o obj-console//outfit.o obj-console//outputmessage.o obj-console//party.o obj-console//player.o obj-console//playerbox.o obj-console//position.o obj-console//protocol.o obj-console//protocolgame.o obj-console//protocollogin.o obj-console//quests.o obj-console//raids.o obj-console//rsa.o obj-console//scheduler.o obj-console//scriptmanager.o obj-console//server.o obj-console//sha1.o obj-console//spawn.o obj-console//spells.o obj-console//status.o obj-console//talkaction.o obj-console//tasks.o obj-console//teleport.o obj-console//textlogger.o obj-console//thing.o obj-console//tile.o obj-console//tools.o obj-console//trashholder.o obj-console//vocation.o obj-console//waitlist.o obj-console//weapons.o obj-console//ioban.o obj-console//globalevent.o obj-console//gameservers.o obj-console//databasemanager.o obj-console//admin.o obj-console//itemattributes.o obj-console//group.o $(RES)
+LIBS =  -L"C:/Users/Kyle/Desktop/Stian's Repack Dev-Cpp v2/lib" -O1 -lboost_system -lgmp -llua5.1 -lmysql -lboost_regex -lsqlite3 -lwsock32 -lxml2 -lmysql -lws2_32 -s -lboost_filesystem -lboost_thread  
+INCS =  -I"C:/Users/Kyle/Desktop/Stian's Repack Dev-Cpp v2/include" 
+CXXINCS =  -I"C:/Users/Kyle/Desktop/Stian's Repack Dev-Cpp v2/include"  -I"C:/Users/Kyle/Desktop/Stian's Repack Dev-Cpp v2/include/c++" 
+BIN  = TheForgottenServer-console.exe
+CXXFLAGS = $(CXXINCS) -D__USE_MYSQL__ -D__USE_SQLITE__ -D__ENABLE_SERVER_DIAGNOSTIC__ -D__CONSOLE__   -fexpensive-optimizations -O1
+CFLAGS = $(INCS)   -fexpensive-optimizations -O1
+RM = rm -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before TheForgottenServer-console.exe all-after
+
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o "TheForgottenServer-console.exe" $(LIBS)
+
+obj-console//actions.o: ../actions.cpp
+	$(CPP) -c ../actions.cpp -o obj-console//actions.o $(CXXFLAGS)
+
+obj-console//allocator.o: ../allocator.cpp
+	$(CPP) -c ../allocator.cpp -o obj-console//allocator.o $(CXXFLAGS)
+
+obj-console//baseevents.o: ../baseevents.cpp
+	$(CPP) -c ../baseevents.cpp -o obj-console//baseevents.o $(CXXFLAGS)
+
+obj-console//beds.o: ../beds.cpp
+	$(CPP) -c ../beds.cpp -o obj-console//beds.o $(CXXFLAGS)
+
+obj-console//chat.o: ../chat.cpp
+	$(CPP) -c ../chat.cpp -o obj-console//chat.o $(CXXFLAGS)
+
+obj-console//combat.o: ../combat.cpp
+	$(CPP) -c ../combat.cpp -o obj-console//combat.o $(CXXFLAGS)
+
+obj-console//protocolold.o: ../protocolold.cpp
+	$(CPP) -c ../protocolold.cpp -o obj-console//protocolold.o $(CXXFLAGS)
+
+obj-console//condition.o: ../condition.cpp
+	$(CPP) -c ../condition.cpp -o obj-console//condition.o $(CXXFLAGS)
+
+obj-console//configmanager.o: ../configmanager.cpp
+	$(CPP) -c ../configmanager.cpp -o obj-console//configmanager.o $(CXXFLAGS)
+
+obj-console//connection.o: ../connection.cpp
+	$(CPP) -c ../connection.cpp -o obj-console//connection.o $(CXXFLAGS)
+
+obj-console//container.o: ../container.cpp
+	$(CPP) -c ../container.cpp -o obj-console//container.o $(CXXFLAGS)
+
+obj-console//creature.o: ../creature.cpp
+	$(CPP) -c ../creature.cpp -o obj-console//creature.o $(CXXFLAGS)
+
+obj-console//creatureevent.o: ../creatureevent.cpp
+	$(CPP) -c ../creatureevent.cpp -o obj-console//creatureevent.o $(CXXFLAGS)
+
+obj-console//cylinder.o: ../cylinder.cpp
+	$(CPP) -c ../cylinder.cpp -o obj-console//cylinder.o $(CXXFLAGS)
+
+obj-console//database.o: ../database.cpp
+	$(CPP) -c ../database.cpp -o obj-console//database.o $(CXXFLAGS)
+
+obj-console//databasemysql.o: ../databasemysql.cpp
+	$(CPP) -c ../databasemysql.cpp -o obj-console//databasemysql.o $(CXXFLAGS)
+
+obj-console//databasesqlite.o: ../databasesqlite.cpp
+	$(CPP) -c ../databasesqlite.cpp -o obj-console//databasesqlite.o $(CXXFLAGS)
+
+obj-console//depot.o: ../depot.cpp
+	$(CPP) -c ../depot.cpp -o obj-console//depot.o $(CXXFLAGS)
+
+obj-console//exception.o: ../exception.cpp
+	$(CPP) -c ../exception.cpp -o obj-console//exception.o $(CXXFLAGS)
+
+obj-console//fileloader.o: ../fileloader.cpp
+	$(CPP) -c ../fileloader.cpp -o obj-console//fileloader.o $(CXXFLAGS)
+
+obj-console//game.o: ../game.cpp
+	$(CPP) -c ../game.cpp -o obj-console//game.o $(CXXFLAGS)
+
+obj-console//gui.o: ../gui.cpp
+	$(CPP) -c ../gui.cpp -o obj-console//gui.o $(CXXFLAGS)
+
+obj-console//house.o: ../house.cpp
+	$(CPP) -c ../house.cpp -o obj-console//house.o $(CXXFLAGS)
+
+obj-console//housetile.o: ../housetile.cpp
+	$(CPP) -c ../housetile.cpp -o obj-console//housetile.o $(CXXFLAGS)
+
+obj-console//inputbox.o: ../inputbox.cpp
+	$(CPP) -c ../inputbox.cpp -o obj-console//inputbox.o $(CXXFLAGS)
+
+obj-console//ioguild.o: ../ioguild.cpp
+	$(CPP) -c ../ioguild.cpp -o obj-console//ioguild.o $(CXXFLAGS)
+
+obj-console//iologindata.o: ../iologindata.cpp
+	$(CPP) -c ../iologindata.cpp -o obj-console//iologindata.o $(CXXFLAGS)
+
+obj-console//iomap.o: ../iomap.cpp
+	$(CPP) -c ../iomap.cpp -o obj-console//iomap.o $(CXXFLAGS)
+
+obj-console//iomapserialize.o: ../iomapserialize.cpp
+	$(CPP) -c ../iomapserialize.cpp -o obj-console//iomapserialize.o $(CXXFLAGS)
+
+obj-console//item.o: ../item.cpp
+	$(CPP) -c ../item.cpp -o obj-console//item.o $(CXXFLAGS)
+
+obj-console//items.o: ../items.cpp
+	$(CPP) -c ../items.cpp -o obj-console//items.o $(CXXFLAGS)
+
+obj-console//luascript.o: ../luascript.cpp
+	$(CPP) -c ../luascript.cpp -o obj-console//luascript.o $(CXXFLAGS)
+
+obj-console//mailbox.o: ../mailbox.cpp
+	$(CPP) -c ../mailbox.cpp -o obj-console//mailbox.o $(CXXFLAGS)
+
+obj-console//map.o: ../map.cpp
+	$(CPP) -c ../map.cpp -o obj-console//map.o $(CXXFLAGS)
+
+obj-console//md5.o: ../md5.cpp
+	$(CPP) -c ../md5.cpp -o obj-console//md5.o $(CXXFLAGS)
+
+obj-console//monster.o: ../monster.cpp
+	$(CPP) -c ../monster.cpp -o obj-console//monster.o $(CXXFLAGS)
+
+obj-console//monsters.o: ../monsters.cpp
+	$(CPP) -c ../monsters.cpp -o obj-console//monsters.o $(CXXFLAGS)
+
+obj-console//movement.o: ../movement.cpp
+	$(CPP) -c ../movement.cpp -o obj-console//movement.o $(CXXFLAGS)
+
+obj-console//networkmessage.o: ../networkmessage.cpp
+	$(CPP) -c ../networkmessage.cpp -o obj-console//networkmessage.o $(CXXFLAGS)
+
+obj-console//npc.o: ../npc.cpp
+	$(CPP) -c ../npc.cpp -o obj-console//npc.o $(CXXFLAGS)
+
+obj-console//otserv.o: ../otserv.cpp
+	$(CPP) -c ../otserv.cpp -o obj-console//otserv.o $(CXXFLAGS)
+
+obj-console//outfit.o: ../outfit.cpp
+	$(CPP) -c ../outfit.cpp -o obj-console//outfit.o $(CXXFLAGS)
+
+obj-console//outputmessage.o: ../outputmessage.cpp
+	$(CPP) -c ../outputmessage.cpp -o obj-console//outputmessage.o $(CXXFLAGS)
+
+obj-console//party.o: ../party.cpp
+	$(CPP) -c ../party.cpp -o obj-console//party.o $(CXXFLAGS)
+
+obj-console//player.o: ../player.cpp
+	$(CPP) -c ../player.cpp -o obj-console//player.o $(CXXFLAGS)
+
+obj-console//playerbox.o: ../playerbox.cpp
+	$(CPP) -c ../playerbox.cpp -o obj-console//playerbox.o $(CXXFLAGS)
+
+obj-console//position.o: ../position.cpp
+	$(CPP) -c ../position.cpp -o obj-console//position.o $(CXXFLAGS)
+
+obj-console//protocol.o: ../protocol.cpp
+	$(CPP) -c ../protocol.cpp -o obj-console//protocol.o $(CXXFLAGS)
+
+obj-console//protocolgame.o: ../protocolgame.cpp
+	$(CPP) -c ../protocolgame.cpp -o obj-console//protocolgame.o $(CXXFLAGS)
+
+obj-console//protocollogin.o: ../protocollogin.cpp
+	$(CPP) -c ../protocollogin.cpp -o obj-console//protocollogin.o $(CXXFLAGS)
+
+obj-console//quests.o: ../quests.cpp
+	$(CPP) -c ../quests.cpp -o obj-console//quests.o $(CXXFLAGS)
+
+obj-console//raids.o: ../raids.cpp
+	$(CPP) -c ../raids.cpp -o obj-console//raids.o $(CXXFLAGS)
+
+obj-console//rsa.o: ../rsa.cpp
+	$(CPP) -c ../rsa.cpp -o obj-console//rsa.o $(CXXFLAGS)
+
+obj-console//scheduler.o: ../scheduler.cpp
+	$(CPP) -c ../scheduler.cpp -o obj-console//scheduler.o $(CXXFLAGS)
+
+obj-console//scriptmanager.o: ../scriptmanager.cpp
+	$(CPP) -c ../scriptmanager.cpp -o obj-console//scriptmanager.o $(CXXFLAGS)
+
+obj-console//server.o: ../server.cpp
+	$(CPP) -c ../server.cpp -o obj-console//server.o $(CXXFLAGS)
+
+obj-console//sha1.o: ../sha1.cpp
+	$(CPP) -c ../sha1.cpp -o obj-console//sha1.o $(CXXFLAGS)
+
+obj-console//spawn.o: ../spawn.cpp
+	$(CPP) -c ../spawn.cpp -o obj-console//spawn.o $(CXXFLAGS)
+
+obj-console//spells.o: ../spells.cpp
+	$(CPP) -c ../spells.cpp -o obj-console//spells.o $(CXXFLAGS)
+
+obj-console//status.o: ../status.cpp
+	$(CPP) -c ../status.cpp -o obj-console//status.o $(CXXFLAGS)
+
+obj-console//talkaction.o: ../talkaction.cpp
+	$(CPP) -c ../talkaction.cpp -o obj-console//talkaction.o $(CXXFLAGS)
+
+obj-console//tasks.o: ../tasks.cpp
+	$(CPP) -c ../tasks.cpp -o obj-console//tasks.o $(CXXFLAGS)
+
+obj-console//teleport.o: ../teleport.cpp
+	$(CPP) -c ../teleport.cpp -o obj-console//teleport.o $(CXXFLAGS)
+
+obj-console//textlogger.o: ../textlogger.cpp
+	$(CPP) -c ../textlogger.cpp -o obj-console//textlogger.o $(CXXFLAGS)
+
+obj-console//thing.o: ../thing.cpp
+	$(CPP) -c ../thing.cpp -o obj-console//thing.o $(CXXFLAGS)
+
+obj-console//tile.o: ../tile.cpp
+	$(CPP) -c ../tile.cpp -o obj-console//tile.o $(CXXFLAGS)
+
+obj-console//tools.o: ../tools.cpp
+	$(CPP) -c ../tools.cpp -o obj-console//tools.o $(CXXFLAGS)
+
+obj-console//trashholder.o: ../trashholder.cpp
+	$(CPP) -c ../trashholder.cpp -o obj-console//trashholder.o $(CXXFLAGS)
+
+obj-console//vocation.o: ../vocation.cpp
+	$(CPP) -c ../vocation.cpp -o obj-console//vocation.o $(CXXFLAGS)
+
+obj-console//waitlist.o: ../waitlist.cpp
+	$(CPP) -c ../waitlist.cpp -o obj-console//waitlist.o $(CXXFLAGS)
+
+obj-console//weapons.o: ../weapons.cpp
+	$(CPP) -c ../weapons.cpp -o obj-console//weapons.o $(CXXFLAGS)
+
+obj-console//ioban.o: ../ioban.cpp
+	$(CPP) -c ../ioban.cpp -o obj-console//ioban.o $(CXXFLAGS)
+
+obj-console//globalevent.o: ../globalevent.cpp
+	$(CPP) -c ../globalevent.cpp -o obj-console//globalevent.o $(CXXFLAGS)
+
+obj-console//gameservers.o: ../gameservers.cpp
+	$(CPP) -c ../gameservers.cpp -o obj-console//gameservers.o $(CXXFLAGS)
+
+obj-console//databasemanager.o: ../databasemanager.cpp
+	$(CPP) -c ../databasemanager.cpp -o obj-console//databasemanager.o $(CXXFLAGS)
+
+obj-console//admin.o: ../admin.cpp
+	$(CPP) -c ../admin.cpp -o obj-console//admin.o $(CXXFLAGS)
+
+obj-console//itemattributes.o: ../itemattributes.cpp
+	$(CPP) -c ../itemattributes.cpp -o obj-console//itemattributes.o $(CXXFLAGS)
+
+obj-console//group.o: ../group.cpp
+	$(CPP) -c ../group.cpp -o obj-console//group.o $(CXXFLAGS)
+
+obj-console//TheForgottenServer_private.res: TheForgottenServer_private.rc ../gui_resources.rc 
+	$(WINDRES) -i TheForgottenServer_private.rc --input-format=rc -o obj-console//TheForgottenServer_private.res -O coff 

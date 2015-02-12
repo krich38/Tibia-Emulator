@@ -1,0 +1,974 @@
+[14/01/2015 16:41:33] /n account manager
+[14/01/2015 16:47:28] /t
+[15/01/2015 10:11:15] /newtype
+[15/01/2015 10:16:07] /newtype
+[15/01/2015 10:35:51] /kick sorcerer 18
+[15/01/2015 10:36:27] /kick druid 07
+[15/01/2015 10:38:10] /reload creatureevents
+[15/01/2015 10:38:14] /kick all
+[15/01/2015 10:38:26] /kick druid 07
+[15/01/2015 10:38:32] /kick knight 10
+[15/01/2015 10:38:37] /kick sorcerer 19
+[15/01/2015 10:45:26] /i sprite wand
+[15/01/2015 10:45:29] /m monk
+[15/01/2015 10:46:12] /i wand of inferno
+[15/01/2015 10:48:43] /reload creatureevents
+[15/01/2015 10:49:29] /i spellbook
+[15/01/2015 10:49:54] /i sprite wand
+[15/01/2015 10:52:34] /kick druid 07
+[15/01/2015 10:55:56] /reload spells
+[15/01/2015 11:01:54] /kick sorcerer 18
+[15/01/2015 11:03:54] /reload spells
+[15/01/2015 11:11:39] /goto druid 07
+[15/01/2015 11:11:50] /a 2
+[15/01/2015 11:12:05] /a 4
+[15/01/2015 11:12:13] /up
+[15/01/2015 11:12:14] /up
+[15/01/2015 11:12:43] /goto sorcerer 01
+[15/01/2015 11:13:05] /a 2
+[15/01/2015 11:19:03] /goto druid 07
+[15/01/2015 11:31:00] /kick sorcerer 01
+[15/01/2015 12:19:09] /goto druid 01
+[15/01/2015 12:20:02] /a 1
+[15/01/2015 12:20:04] /up
+[15/01/2015 12:21:01] /a 5
+[15/01/2015 12:21:34] /a 1
+[15/01/2015 12:21:37] /a 1
+[15/01/2015 12:23:23] /goto druid 01
+[16/01/2015 00:23:21] /goto sorcerer 01
+[16/01/2015 00:23:50] /a 2
+[16/01/2015 00:23:52] /a 2
+[16/01/2015 00:23:54] /up
+[16/01/2015 00:23:58] /c sorcerer 01
+[16/01/2015 00:24:18] /down
+[16/01/2015 00:24:21] /a 4
+[16/01/2015 00:24:25] /c sorcerer 01
+[16/01/2015 00:26:14] /t
+[16/01/2015 00:28:52] /i winged tiara
+[16/01/2015 00:30:00] /i winged tiara
+[16/01/2015 04:13:32] /goto sorcerer 19
+[16/01/2015 04:14:36] /c sorcerer 19
+[16/01/2015 04:17:40] /c sorcerer 01
+[16/01/2015 04:18:41] /goto sorcerer 01
+[16/01/2015 04:18:55] /goto sorcerer 01
+[16/01/2015 04:21:34] /goto sorcerer 01
+[16/01/2015 04:34:25] /goto 876,875,12
+[16/01/2015 04:34:36] /addskill Yamahation, magic, 99
+[16/01/2015 04:34:48] /addskill Yamahation, level, 299
+[16/01/2015 04:34:57] /addskill Yamahation, magic
+[16/01/2015 04:34:59] /addskill Yamahation, magic
+[16/01/2015 04:35:09] /addskill Yamahation, magic, 99
+[16/01/2015 04:35:19] /addskill Yamahation, magic
+[16/01/2015 04:35:20] /addskill Yamahation, magic
+[16/01/2015 04:35:20] /addskill Yamahation, magic
+[16/01/2015 04:35:20] /addskill Yamahation, magic
+[16/01/2015 04:35:20] /addskill Yamahation, magic
+[16/01/2015 04:35:20] /addskill Yamahation, magic
+[16/01/2015 04:35:20] /addskill Yamahation, magic
+[16/01/2015 04:35:20] /addskill Yamahation, magic
+[16/01/2015 04:35:20] /addskill Yamahation, magic
+[16/01/2015 04:35:20] /addskill Yamahation, magic
+[16/01/2015 04:35:20] /addskill Yamahation, magic
+[16/01/2015 04:35:20] /addskill Yamahation, magic
+[16/01/2015 04:35:20] /addskill Yamahation, magic
+[16/01/2015 04:35:20] /addskill Yamahation, magic
+[16/01/2015 04:35:20] /addskill Yamahation, magic
+[16/01/2015 04:35:20] /addskill Yamahation, magic
+[16/01/2015 04:35:21] /addskill Yamahation, magic
+[16/01/2015 04:35:21] /addskill Yamahation, magic
+[16/01/2015 04:35:21] /addskill Yamahation, magic
+[16/01/2015 04:35:21] /addskill Yamahation, magic
+[16/01/2015 04:35:21] /addskill Yamahation, magic
+[16/01/2015 04:35:21] /addskill Yamahation, magic
+[16/01/2015 04:35:21] /addskill Yamahation, magic
+[16/01/2015 04:35:21] /addskill Yamahation, magic
+[16/01/2015 04:35:21] /addskill Yamahation, magic
+[16/01/2015 04:35:21] /addskill Yamahation, magic
+[16/01/2015 04:35:21] /addskill Yamahation, magic
+[16/01/2015 04:35:21] /addskill Yamahation, magic
+[16/01/2015 04:35:21] /addskill Yamahation, magic
+[16/01/2015 04:35:21] /addskill Yamahation, magic
+[16/01/2015 04:35:21] /addskill Yamahation, magic
+[16/01/2015 04:35:21] /addskill Yamahation, magic
+[16/01/2015 04:35:21] /addskill Yamahation, magic
+[16/01/2015 04:35:21] /addskill Yamahation, magic
+[16/01/2015 04:35:21] /addskill Yamahation, magic
+[16/01/2015 04:35:21] /addskill Yamahation, magic
+[16/01/2015 04:35:21] /addskill Yamahation, magic
+[16/01/2015 04:35:21] /addskill Yamahation, magic
+[16/01/2015 04:35:21] /addskill Yamahation, magic
+[16/01/2015 04:35:22] /addskill Yamahation, magic
+[16/01/2015 04:35:22] /addskill Yamahation, magic
+[16/01/2015 04:35:22] /addskill Yamahation, magic
+[16/01/2015 04:35:22] /addskill Yamahation, magic
+[16/01/2015 04:35:22] /addskill Yamahation, magic
+[16/01/2015 04:35:22] /addskill Yamahation, magic
+[16/01/2015 04:35:22] /addskill Yamahation, magic
+[16/01/2015 04:35:22] /addskill Yamahation, magic
+[16/01/2015 04:35:22] /addskill Yamahation, magic
+[16/01/2015 04:35:22] /addskill Yamahation, magic
+[16/01/2015 04:35:22] /addskill Yamahation, magic
+[16/01/2015 04:35:22] /addskill Yamahation, magic
+[16/01/2015 04:35:22] /addskill Yamahation, magic
+[16/01/2015 04:35:22] /addskill Yamahation, magic
+[16/01/2015 04:35:22] /addskill Yamahation, magic
+[16/01/2015 04:35:22] /addskill Yamahation, magic
+[16/01/2015 04:35:22] /addskill Yamahation, magic
+[16/01/2015 04:35:22] /addskill Yamahation, magic
+[16/01/2015 04:35:22] /addskill Yamahation, magic
+[16/01/2015 04:35:22] /addskill Yamahation, magic
+[16/01/2015 04:35:22] /addskill Yamahation, magic
+[16/01/2015 04:35:22] /addskill Yamahation, magic
+[16/01/2015 04:35:22] /addskill Yamahation, magic
+[16/01/2015 04:35:22] /addskill Yamahation, magic
+[16/01/2015 04:35:22] /addskill Yamahation, magic
+[16/01/2015 04:35:22] /addskill Yamahation, magic
+[16/01/2015 04:35:22] /addskill Yamahation, magic
+[16/01/2015 04:35:24] /addskill Yamahation, magic
+[16/01/2015 04:35:24] /addskill Yamahation, magic
+[16/01/2015 04:35:24] /addskill Yamahation, magic
+[16/01/2015 04:35:24] /addskill Yamahation, magic
+[16/01/2015 04:35:41] /addskill Yamahation, magic
+[16/01/2015 04:35:42] /addskill Yamahation, magic
+[16/01/2015 04:35:42] /addskill Yamahation, magic
+[16/01/2015 04:35:42] /addskill Yamahation, magic
+[16/01/2015 04:35:42] /addskill Yamahation, magic
+[16/01/2015 04:35:43] /addskill Yamahation, magic
+[16/01/2015 04:35:43] /addskill Yamahation, magic
+[16/01/2015 04:35:43] /addskill Yamahation, magic
+[16/01/2015 04:35:43] /addskill Yamahation, magic
+[16/01/2015 04:35:43] /addskill Yamahation, magic
+[16/01/2015 04:35:43] /addskill Yamahation, magic
+[16/01/2015 04:35:43] /addskill Yamahation, magic
+[16/01/2015 04:35:44] /addskill Yamahation, magic
+[16/01/2015 04:35:44] /addskill Yamahation, magic
+[16/01/2015 04:35:44] /addskill Yamahation, magic
+[16/01/2015 04:35:44] /addskill Yamahation, magic
+[16/01/2015 04:36:02] /c sorcerer 19
+[16/01/2015 04:36:07] /addskill Yamahation, magic
+[16/01/2015 04:36:08] /addskill Yamahation, magic
+[16/01/2015 04:36:08] /addskill Yamahation, magic
+[16/01/2015 04:36:08] /addskill Yamahation, magic
+[16/01/2015 04:36:08] /addskill Yamahation, magic
+[16/01/2015 04:36:08] /addskill Yamahation, magic
+[16/01/2015 04:36:08] /addskill Yamahation, magic
+[16/01/2015 04:36:31] /c sorcerer 19
+[16/01/2015 04:37:01] /c sorcerer 01
+[16/01/2015 04:37:37] /c sorcerer 01
+[16/01/2015 04:38:41] /n burt buyer
+[16/01/2015 04:38:44] /n burt buy'er
+[16/01/2015 04:39:16] /goto 1006,1044,11
+[16/01/2015 04:39:20] /c sorcerer 01
+[16/01/2015 04:39:46] /a 5
+[16/01/2015 04:39:47] /a 5
+[16/01/2015 04:39:47] /a 5
+[16/01/2015 04:39:49] /a 5
+[16/01/2015 04:39:53] /a 2
+[16/01/2015 04:39:57] /c sorcerer 01
+[16/01/2015 04:40:00] /c sorcerer 01
+[16/01/2015 04:40:34] /a 2
+[16/01/2015 04:40:41] /c sorcerer 01
+[16/01/2015 04:41:24] /a 20
+[16/01/2015 04:41:28] /a 20
+[16/01/2015 04:41:29] /a 20
+[16/01/2015 04:41:32] /a 7
+[16/01/2015 04:41:35] /a 2
+[16/01/2015 04:41:39] /c sorcerer 01
+[16/01/2015 04:42:54] /a 2
+[16/01/2015 04:43:02] /i brown mushroom
+[16/01/2015 04:43:20] /a 2
+[16/01/2015 04:43:23] /c sorcerer 01
+[16/01/2015 04:45:32] /goto 1044,1050,10
+[16/01/2015 04:45:37] /c sorcerer 01
+[16/01/2015 04:45:53] /a 5
+[16/01/2015 04:45:57] /c sorcerer 01
+[16/01/2015 09:49:12] /goto sorcerer 01
+[16/01/2015 10:00:01] /reload globalevents
+[16/01/2015 10:00:30] /t
+[16/01/2015 10:13:05] /kick sorcerer 01
+[16/01/2015 10:13:57] /reload vocations
+[16/01/2015 10:14:33] /reload vocations
+[16/01/2015 10:21:59] /reload spells
+[16/01/2015 10:25:01] /reload spells
+[16/01/2015 10:25:38] /kick paladin 09
+[16/01/2015 10:33:16] /reload globalevents
+[16/01/2015 10:49:04] /goto sorcerer 01
+[16/01/2015 10:50:36] /reload config
+[16/01/2015 10:53:36] /addskill Sorcerer 01, level, 20
+[16/01/2015 10:55:33] /addskill Sorcerer 01, level, 20
+[16/01/2015 10:57:50] /reload creatureevents
+[16/01/2015 11:02:51] /reload config
+[16/01/2015 11:03:41] /addskill Sorcerer 01, level, 20
+[16/01/2015 11:05:35] /addskill Sorcerer 01, level, 20
+[16/01/2015 11:07:42] /addskill Sorcerer 01, level, 20
+[16/01/2015 11:16:58] /addskill Sorcerer 01, level, 20
+[16/01/2015 11:27:16] /addskill Sorcerer 01, level, 20
+[16/01/2015 11:33:25] /addskill sorcerer 01, level, 20
+[16/01/2015 11:34:09] /kick sorcerer 01
+[16/01/2015 11:44:13] /addskill sorcerer 01, level, 29
+[16/01/2015 11:44:55] /addskill Sorcerer 02, level, 20
+[16/01/2015 11:46:47] /reload creatureevents
+[16/01/2015 11:47:37] /kick sorcerer 01
+[16/01/2015 11:48:29] /reload creatureevents
+[16/01/2015 11:48:36] /kick sorcerer 01
+[16/01/2015 11:49:13] /addskill Sorcerer 01, level 2
+[16/01/2015 11:49:18] /addskill Sorcerer 01, level 2
+[16/01/2015 11:49:21] /addskill Sorcerer 01, level 2
+[16/01/2015 11:49:45] /kick sorcerer 01
+[16/01/2015 11:51:02] /reload creatureevents
+[16/01/2015 11:51:05] /kick sorcerer 01
+[16/01/2015 11:56:34] /kick sorcerer 01
+[16/01/2015 11:56:50] /reload creatureevents
+[16/01/2015 11:56:58] /kick sorcerer 01
+[16/01/2015 13:26:32] /reload globalevents
+[16/01/2015 13:34:00] /reload spells
+[16/01/2015 13:35:04] /m rat
+[16/01/2015 13:36:37] /reload spells
+[16/01/2015 14:23:08] /reload creatureevents
+[16/01/2015 14:23:17] /addskill Druid 02, level, 2
+[16/01/2015 14:24:07] /addskill Druid 02, level, 2
+[16/01/2015 14:24:08] /addskill Druid 02, level, 2
+[16/01/2015 14:26:48] /reload creatureevents
+[16/01/2015 14:26:59] /addskill Druid 01, level, 100
+[16/01/2015 14:27:17] /kick druid 01
+[16/01/2015 14:27:26] /addskill Druid 01, level, 100
+[16/01/2015 14:28:28] /addskill Druid 01, level, 1
+[16/01/2015 14:28:40] /addskill Druid 01, level, 1
+[16/01/2015 14:29:45] /reload creatureevents
+[16/01/2015 14:29:58] /addskill Druid 01, level, 1
+[16/01/2015 14:30:31] /reload creatureevents
+[16/01/2015 14:30:32] /addskill Druid 01, level, 1
+[16/01/2015 14:30:36] /addskill Druid 01, level, 1
+[16/01/2015 14:30:40] /addskill Druid 01, level, 1
+[16/01/2015 14:30:49] /addskill Druid 01, level, 1
+[16/01/2015 14:30:57] /addskill Druid 01, level, 1
+[16/01/2015 14:33:44] /reload creatureevents
+[16/01/2015 14:33:49] /addskill Druid 01, level, 1
+[16/01/2015 14:33:53] /addskill Druid 01, level, 1
+[16/01/2015 14:33:59] /addskill Druid 01, level, 1
+[16/01/2015 14:34:04] /addskill Druid 01, level, 2
+[16/01/2015 14:34:38] /reload creatureevents
+[16/01/2015 14:34:40] /addskill Druid 01, level, 2
+[16/01/2015 14:34:41] /addskill Druid 01, level, 2
+[16/01/2015 14:34:55] /addskill Druid 01, level, 2
+[16/01/2015 14:34:55] /addskill Druid 01, level, 2
+[16/01/2015 14:34:59] /addskill Druid 01, level, 2
+[16/01/2015 14:35:49] /reload creatureevents
+[16/01/2015 14:35:53] /addskill Druid 01, level, 2
+[16/01/2015 14:35:56] /addskill Druid 01, level, 2
+[16/01/2015 14:36:12] /addskill Druid 01, level, 2
+[16/01/2015 14:36:12] /addskill Druid 01, level, 2
+[16/01/2015 14:36:17] /addskill Druid 01, level, 2
+[16/01/2015 14:36:27] /addskill Druid 01, level, 2
+[16/01/2015 14:36:30] /addskill Druid 01, level, 1
+[16/01/2015 14:36:36] /addskill Druid 01, level, 1
+[16/01/2015 14:37:15] /reload creatureevents
+[16/01/2015 14:37:21] /addskill Druid 01, level, 2
+[16/01/2015 14:37:21] /addskill Druid 01, level, 2
+[16/01/2015 14:37:27] /addskill Druid 01, level, 1
+[16/01/2015 14:39:20] /reload creatureevents
+[16/01/2015 14:39:23] /addskill Druid 01, level, 2
+[16/01/2015 14:39:24] /addskill Druid 01, level, 2
+[16/01/2015 14:39:32] /addskill Druid 01, level, 4
+[16/01/2015 23:55:08] /i sprite wand
+[16/01/2015 23:55:14] /i soft boots
+[16/01/2015 23:55:19] /i red robe
+[16/01/2015 23:55:24] /i winged tiara
+[17/01/2015 00:06:56] /c druid 01, level, 100
+[17/01/2015 00:08:24] /addskill druid 01, level, 100
+[17/01/2015 00:09:36] /addskill sorcerer 01, magic, 100
+[17/01/2015 00:09:37] /addskill sorcerer 01, magic, 100
+[17/01/2015 00:09:37] /addskill sorcerer 01, magic, 100
+[17/01/2015 00:09:37] /addskill sorcerer 01, magic, 100
+[17/01/2015 00:09:38] /addskill sorcerer 01, magic, 100
+[17/01/2015 00:09:38] /addskill sorcerer 01, magic, 100
+[17/01/2015 00:09:38] /addskill sorcerer 01, magic, 100
+[17/01/2015 00:09:39] /addskill sorcerer 01, magic, 100
+[17/01/2015 00:09:39] /addskill sorcerer 01, magic, 100
+[17/01/2015 00:09:39] /addskill sorcerer 01, magic, 100
+[17/01/2015 00:09:40] /addskill sorcerer 01, magic, 100
+[17/01/2015 00:09:40] /addskill sorcerer 01, magic, 100
+[17/01/2015 00:09:40] /addskill sorcerer 01, magic, 100
+[17/01/2015 00:09:41] /addskill sorcerer 01, magic, 100
+[17/01/2015 00:09:41] /addskill sorcerer 01, magic, 100
+[17/01/2015 00:09:41] /addskill sorcerer 01, magic, 100
+[17/01/2015 00:09:42] /addskill sorcerer 01, magic, 100
+[17/01/2015 00:09:42] /addskill sorcerer 01, magic, 100
+[17/01/2015 00:09:43] /addskill sorcerer 01, magic, 100
+[17/01/2015 00:09:43] /addskill sorcerer 01, magic, 100
+[17/01/2015 00:09:43] /addskill sorcerer 01, magic, 100
+[17/01/2015 00:09:44] /addskill sorcerer 01, magic, 100
+[17/01/2015 00:09:44] /addskill sorcerer 01, magic, 100
+[17/01/2015 00:09:44] /addskill sorcerer 01, magic, 100
+[17/01/2015 00:09:45] /addskill sorcerer 01, magic, 100
+[17/01/2015 00:09:46] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:09:47] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:09:47] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:09:47] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:33] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:34] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:34] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:34] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:34] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:34] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:34] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:34] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:34] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:34] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:34] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:34] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:34] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:34] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:34] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:34] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:34] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:34] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:34] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:34] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:34] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:34] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:35] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:35] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:35] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:35] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:35] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:35] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:35] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:35] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:35] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:35] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:35] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:35] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:35] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:35] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:35] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:35] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:35] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:35] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:35] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:35] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:35] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:35] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:35] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:35] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:35] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:35] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:35] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:35] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:35] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:35] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:36] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:36] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:36] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:36] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:36] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:36] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:36] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:36] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:36] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:36] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:36] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:36] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:36] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:36] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:36] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:36] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:36] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:36] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:36] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:36] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:36] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:36] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:36] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:36] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:36] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:36] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:36] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:36] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:36] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:36] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:37] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:37] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:37] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:37] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:37] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:37] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:37] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:37] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:37] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:37] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:37] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:37] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:37] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:37] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:37] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:37] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:37] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:37] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:37] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:37] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:37] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:37] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:37] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:37] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:37] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:37] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:37] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:37] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:37] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:37] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:37] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:38] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:38] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:38] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:38] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:38] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:38] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:38] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:38] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:38] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:38] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:38] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:38] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:38] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:38] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:38] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:38] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:38] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:38] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:38] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:38] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:38] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:38] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:38] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:38] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:38] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:38] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:38] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:38] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:38] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:38] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:39] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:39] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:39] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:39] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:39] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:39] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:39] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:39] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:39] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:39] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:39] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:39] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:39] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:39] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:39] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:39] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:39] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:39] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:39] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:39] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:39] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:39] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:39] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:39] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:39] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:39] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:39] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:39] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:39] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:39] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:39] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:40] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:40] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:40] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:40] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:40] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:40] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:40] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:40] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:40] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:40] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:40] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:40] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:40] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:40] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:40] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:40] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:40] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:40] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:40] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:40] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:40] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:40] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:40] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:40] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:40] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:40] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:40] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:40] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:40] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:40] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:41] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:41] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:41] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:41] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:41] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:41] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:41] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:41] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:41] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:41] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:41] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:41] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:41] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:41] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:41] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:41] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:41] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:41] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:41] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:41] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:41] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:41] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:41] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:41] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:41] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:41] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:41] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:41] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:41] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:41] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:41] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:42] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:10:42] /addskill sorcerer 01, magic, 1000
+[17/01/2015 00:13:43] /addskill druid 01, level, 1000
+[17/01/2015 00:13:47] /addskill druid 01, level, 1000
+[17/01/2015 00:13:49] /addskill druid 01, level, 1000
+[17/01/2015 00:13:50] /addskill druid 01, level, 1000
+[17/01/2015 00:13:50] /addskill druid 01, level, 1000
+[17/01/2015 00:13:51] /addskill druid 01, level, 1000
+[17/01/2015 00:13:53] /addskill druid 01, level, 1000
+[17/01/2015 00:13:54] /addskill druid 01, level, 1000
+[17/01/2015 00:13:55] /addskill druid 01, level, 1000
+[17/01/2015 00:13:56] /addskill druid 01, level, 1000
+[17/01/2015 00:13:57] /addskill druid 01, level, 1000
+[17/01/2015 00:13:57] /addskill druid 01, level, 1000
+[17/01/2015 00:13:59] /addskill druid 01, level, 1000
+[17/01/2015 00:13:59] /addskill druid 01, level, 1000
+[17/01/2015 00:14:00] /addskill druid 01, level, 1000
+[17/01/2015 00:14:00] /addskill druid 01, level, 1000
+[17/01/2015 00:14:02] /addskill druid 01, level, 1000
+[17/01/2015 00:14:03] /addskill druid 01, level, 1000
+[17/01/2015 00:14:03] /addskill druid 01, level, 1000
+[17/01/2015 00:14:04] /addskill druid 01, level, 1000
+[17/01/2015 00:14:04] /addskill druid 01, level, 1000
+[17/01/2015 00:14:05] /addskill druid 01, level, 1000
+[17/01/2015 00:14:05] /addskill druid 01, level, 1000
+[17/01/2015 00:14:08] /addskill druid 01, level, 1000
+[17/01/2015 00:14:08] /addskill druid 01, level, 1000
+[17/01/2015 00:14:09] /addskill druid 01, level, 1000
+[17/01/2015 00:14:10] /addskill druid 01, level, 10000
+[17/01/2015 00:14:13] /addskill druid 01, level, 10000
+[17/01/2015 00:14:13] /addskill druid 01, level, 10000
+[17/01/2015 00:14:14] /addskill druid 01, level, 10000
+[17/01/2015 00:14:15] /addskill druid 01, level, 10000
+[17/01/2015 00:14:16] /addskill druid 01, level, 10000
+[17/01/2015 00:14:19] /addskill druid 01, level, 10000
+[17/01/2015 00:14:19] /addskill druid 01, level, 10000
+[17/01/2015 00:14:19] /addskill druid 01, level, 10000
+[17/01/2015 00:14:21] /addskill druid 01, level, 10000
+[17/01/2015 00:14:21] /addskill druid 01, level, 10000
+[17/01/2015 00:14:22] /addskill druid 01, level, 10000
+[17/01/2015 00:14:22] /addskill druid 01, level, 10000
+[17/01/2015 00:14:24] /addskill druid 01, level, 100000
+[17/01/2015 00:28:34] /i sprite wand
+[17/01/2015 00:28:42] /i red robe
+[17/01/2015 00:28:48] /i soft boots
+[17/01/2015 00:31:16] /i sprite wand
+[17/01/2015 00:31:33] /i terra rod
+[17/01/2015 00:31:48] /reload weapons
+[17/01/2015 00:31:58] /i terra rod
+[17/01/2015 00:33:09] /reload weapons
+[17/01/2015 00:37:13] /reload spells
+[17/01/2015 00:38:22] /reload spells
+[17/01/2015 00:41:05] /reload spells
+[17/01/2015 00:44:37] /reload spells
+[17/01/2015 00:47:20] /reload actions
+[17/01/2015 00:49:11] /reload globalevents
+[17/01/2015 00:50:51] /i sprite wand
+[17/01/2015 01:01:06] /addskill Sorcerer 02, level, 4
+[17/01/2015 01:01:14] /addskill Sorcerer 02, level, 1
+[17/01/2015 01:01:21] /addskill Sorcerer 02, level, 4
+[17/01/2015 01:01:29] /addskill Sorcerer 02, level, 2
+[17/01/2015 01:05:32] /addskill Sorcerer 02, level, 200
+[17/01/2015 01:06:01] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:01] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:02] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:02] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:02] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:02] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:02] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:02] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:02] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:02] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:02] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:02] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:02] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:02] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:02] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:02] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:02] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:02] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:02] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:02] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:02] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:02] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:02] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:02] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:02] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:02] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:02] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:03] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:03] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:03] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:03] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:03] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:03] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:03] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:03] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:03] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:03] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:03] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:03] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:03] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:03] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:03] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:03] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:03] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:03] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:03] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:03] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:03] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:03] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:03] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:03] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:03] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:03] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:03] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:03] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:03] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:03] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:11] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:12] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:12] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:12] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:12] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:13] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:13] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:13] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:13] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:17] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:17] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:17] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:17] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:17] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:17] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:17] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:17] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:17] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:17] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:17] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:17] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:17] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:18] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:18] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:18] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:18] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:18] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:18] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:18] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:18] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:18] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:18] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:18] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:18] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:18] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:18] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:18] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:18] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:18] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:18] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:18] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:18] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:18] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:18] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:18] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:18] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:18] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:18] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:19] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:19] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:19] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:19] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:19] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:19] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:19] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:19] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:19] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:19] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:19] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:19] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:19] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:19] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:19] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:19] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:19] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:19] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:19] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:19] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:19] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:19] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:19] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:19] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:19] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:19] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:19] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:19] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:19] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:19] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:19] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:19] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:19] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:19] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:20] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:20] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:20] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:20] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:20] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:20] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:20] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:20] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:20] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:20] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:20] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:20] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:20] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:20] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:20] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:20] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:20] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:20] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:20] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:20] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:20] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:20] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:20] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:20] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:20] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:21] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:21] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:21] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:21] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:21] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:21] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:21] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:21] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:21] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:21] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:21] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:21] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:21] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:21] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:21] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:21] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:21] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:21] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:21] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:21] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:21] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:21] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:21] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:21] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:21] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:21] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:21] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:21] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:21] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:21] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:21] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:21] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:21] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:21] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:21] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:21] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:21] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:22] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:22] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:22] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:22] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:22] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:22] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:25] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:25] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:25] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:25] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:25] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:25] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:26] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:26] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:26] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:26] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:26] /addskill Sorcerer 02, magic
+[17/01/2015 01:06:37] /addskill Sorcerer 02, level, 200
+[17/01/2015 01:06:37] /addskill Sorcerer 02, level, 200
+[17/01/2015 01:06:38] /addskill Sorcerer 02, level, 200
+[17/01/2015 01:13:07] /kick sorcerer 02
+[17/01/2015 01:13:11] /kick sorcerer 01
+[17/01/2015 01:13:17] /kick druid 02
+[17/01/2015 04:19:44] /reload creatureevents
+[17/01/2015 04:19:56] /kick druid 02
+[17/01/2015 04:45:43] /n account manager
+[17/01/2015 05:05:51] /reload talkactions
+[17/01/2015 05:06:29] /reload talkactions
+[17/01/2015 05:07:06] /reload talkactions
+[17/01/2015 05:10:23] /reload talkactions
+[17/01/2015 05:14:19] /reload globalevents
+[17/01/2015 05:41:38] /reload talkactions
+[17/01/2015 05:42:30] /reload talkactions
+[17/01/2015 05:47:10] /reload talkactions
+[17/01/2015 05:49:48] /reload talkactions
+[17/01/2015 06:15:37] /t
+[17/01/2015 09:02:22] /i dead human
+[17/01/2015 09:02:27] /i dead human
+[17/01/2015 09:02:31] /i dead human
+[17/01/2015 09:02:36] /i dead human
+[17/01/2015 09:02:40] /i dead human
+[17/01/2015 09:03:23] /a 2
+[17/01/2015 09:03:26] /n burt buyer
+[17/01/2015 09:03:29] /n burt buy'er
+[17/01/2015 09:03:37] /a 4
+[17/01/2015 09:08:20] /reload creatureevents
+[17/01/2015 09:10:12] /t
+[17/01/2015 09:10:19] /goto sorcerer 19
+[17/01/2015 09:24:14] /t
+[17/01/2015 09:26:44] /a 1
+[17/01/2015 09:26:48] /i 6858
+[17/01/2015 09:26:53] /a 2
+[17/01/2015 09:28:56] /reload actions
+[17/01/2015 10:01:39] /goto sorcerer 19
+[17/01/2015 10:01:45] /goto sorcerer 19
+[17/01/2015 10:33:43] /goto sorcerer 02
+[17/01/2015 11:40:56] /t
+[17/01/2015 11:46:57] /goto druid 07
+[17/01/2015 11:52:07] /newtype
+[17/01/2015 12:00:13] /reload talkactions
+[17/01/2015 12:00:18] /newtype
+[17/01/2015 14:17:45] /goto gm noxuos
+[17/01/2015 14:24:07] /addskill Sorcerer 02, magic
+[17/01/2015 14:24:07] /addskill Sorcerer 02, magic
+[17/01/2015 14:24:07] /addskill Sorcerer 02, magic
+[17/01/2015 14:24:07] /addskill Sorcerer 02, magic
+[17/01/2015 14:24:07] /addskill Sorcerer 02, magic
+[17/01/2015 14:24:08] /addskill Sorcerer 02, magic
+[17/01/2015 14:24:08] /addskill Sorcerer 02, magic
+[17/01/2015 14:24:08] /addskill Sorcerer 02, magic
+[17/01/2015 14:24:08] /addskill Sorcerer 02, magic
+[17/01/2015 14:24:08] /addskill Sorcerer 02, magic
+[17/01/2015 14:24:08] /addskill Sorcerer 02, magic
+[17/01/2015 14:24:08] /addskill Sorcerer 02, magic
+[17/01/2015 14:24:08] /addskill Sorcerer 02, magic
+[17/01/2015 14:24:08] /addskill Sorcerer 02, magic
+[17/01/2015 14:24:32] /addskill GM Noxuos, magic.
+[17/01/2015 14:24:43] /addskill GM Noxuos, magic, 10
+[17/01/2015 14:24:46] /addskill GM Noxuos, magic, 10
+[17/01/2015 14:24:46] /addskill GM Noxuos, magic, 10
+[17/01/2015 14:24:47] /addskill GM Noxuos, magic, 10
+[17/01/2015 14:24:47] /addskill GM Noxuos, magic, 10
+[17/01/2015 14:24:48] /addskill GM Noxuos, magic, 10
+[17/01/2015 14:24:48] /addskill GM Noxuos, magic, 10
+[17/01/2015 14:37:36] /goto gm noxuos
+[17/01/2015 14:39:19] /down
+[17/01/2015 14:39:35] /down
+[17/01/2015 14:40:09] /down
+[17/01/2015 14:46:20] /goto gm noxuos
+[18/01/2015 01:27:06] /goto sorcerer 01
+[18/01/2015 01:35:55] /t
+[18/01/2015 06:04:10] /goto sorcerer 01
+[18/01/2015 10:01:47] /goto sorcerer 01
+[18/01/2015 10:29:31] /reload actions
+[18/01/2015 10:31:13] /reload actions
+[18/01/2015 10:47:01] /goto sorcerer 19
+[18/01/2015 12:57:59] /goto sorcerer 07
+[18/01/2015 23:05:21] /goto druid 02
+[18/01/2015 23:07:34] /r
+[18/01/2015 23:07:38] /r
+[18/01/2015 23:07:40] /r
+[18/01/2015 23:07:46] /r
+[18/01/2015 23:07:47] /r
+[18/01/2015 23:07:50] /r
+[18/01/2015 23:07:50] /r
+[18/01/2015 23:17:48] /clean
+[18/01/2015 23:36:03] /clean
+[18/01/2015 23:36:08] /clean
+[18/01/2015 23:42:24] /reload items
+[18/01/2015 23:42:27] /i soft boots
+[19/01/2015 02:50:03] /goto sorcerer 01
+[19/01/2015 02:59:32] /up
+[19/01/2015 02:59:39] /i zaoan chest box
+[19/01/2015 03:00:54] /i zaoan chess box
+[19/01/2015 06:34:36] /t
+[19/01/2015 06:49:41] /reload creatureevents
+[19/01/2015 06:52:04] /kick druid 01
+[19/01/2015 07:38:15] /i soft boots
+[19/01/2015 07:41:11] /i soft boots
+[19/01/2015 07:42:20] /info sorcerer 19
+[19/01/2015 08:11:35] /t
+[19/01/2015 08:24:08] /a 2
+[19/01/2015 08:24:13] /n burt buyer
+[19/01/2015 08:24:17] /n Burt Buy'Er
+[19/01/2015 08:45:48] /reload globalevents
+[19/01/2015 08:47:18] /reload globalevents
+[19/01/2015 09:36:17] /reload globalevents
+[19/01/2015 09:38:37] /reload globalevents
+[19/01/2015 09:40:05] /reload globalevents
+[19/01/2015 09:40:37] /reload globalevents
+[19/01/2015 09:44:31] /a 4
+[19/01/2015 09:44:33] /a 4
+[19/01/2015 09:44:34] /a 4
+[19/01/2015 09:44:36] /a 4
+[19/01/2015 09:55:33] /reload npcs
+[19/01/2015 10:05:45] /a 2
+[19/01/2015 10:05:46] /up
+[19/01/2015 10:07:36] /reload actions
+[19/01/2015 10:08:18] /reload actions
+[19/01/2015 10:11:40] /t
+[19/01/2015 11:11:34] /reload actions
+[19/01/2015 11:12:44] /reload actions
+[19/01/2015 11:12:47] /a 4
+[19/01/2015 11:12:55] /i backpack
+[20/01/2015 00:45:20] /goto sorcerer 01
+[20/01/2015 00:46:06] /c sorcerer 01
+[20/01/2015 00:47:44] /t
+[20/01/2015 00:47:48] /a 5
+[20/01/2015 03:58:44] /goto sorcerer 19
+[20/01/2015 04:56:56] /a 2
+[20/01/2015 04:57:51] /a 10
+[20/01/2015 05:04:48] /t
+[20/01/2015 05:04:52] /a 12
+[20/01/2015 05:12:20] /a 2
+[20/01/2015 05:12:34] /n magic matt
+[20/01/2015 05:14:28] /reload npcs
+[20/01/2015 05:15:38] /reload npcs
+[20/01/2015 05:15:41] /n magic matt
+[20/01/2015 05:15:55] /n Magic Matt
+[20/01/2015 05:16:00] /a 4
+[20/01/2015 05:16:10] /a 2
+[20/01/2015 05:16:14] /n Grizzly Adams
+[20/01/2015 05:16:20] /a 
+[20/01/2015 05:31:51] /a 12
+[20/01/2015 05:31:55] /reload spells
+[20/01/2015 05:32:28] /a 14
+[20/01/2015 05:49:17] /reload config
+[20/01/2015 06:49:09] /a 12
+[22/01/2015 12:47:45] /a 2

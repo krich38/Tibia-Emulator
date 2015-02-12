@@ -1,0 +1,194 @@
+[13/01/2015 15:35:41] /reload npcs
+[13/01/2015 15:35:56] /n amy amulets
+[13/01/2015 15:36:03] /m orshabaal
+[13/01/2015 15:37:48] /n account manager
+[13/01/2015 15:39:23] /addskill Lel, magic, 100
+[13/01/2015 15:39:27] /addskill Lel, magic, 99
+[13/01/2015 15:44:27] /reload npcs
+[13/01/2015 15:44:31] /n billy bolts
+[13/01/2015 15:44:56] /reload npcs
+[13/01/2015 15:44:58] /n billy bolts
+[13/01/2015 15:45:52] /reload npcs
+[13/01/2015 15:45:53] /n billy bolts
+[13/01/2015 15:46:00] /n billy bolts
+[13/01/2015 15:51:31] /reload npcs
+[13/01/2015 15:51:35] /n william weapons
+[13/01/2015 15:52:11] /reload npcs
+[13/01/2015 15:52:14] /reload npcs
+[13/01/2015 15:52:15] /n william weapons
+[13/01/2015 15:52:50] /n william weapons
+[13/01/2015 15:53:23] /reload npcs
+[13/01/2015 15:53:26] /n william weapons
+[13/01/2015 15:53:49] /reload npcs
+[13/01/2015 15:53:51] /n william weapons
+[13/01/2015 15:53:56] /n william weapons
+[13/01/2015 15:54:25] /reload npcs
+[13/01/2015 15:54:26] /n william weapons
+[13/01/2015 15:57:30] /reload npcs
+[13/01/2015 15:57:34] /n william weapons
+[13/01/2015 15:58:07] /reload npcs
+[13/01/2015 15:58:08] /n william weapons
+[13/01/2015 16:07:00] /reload npcs
+[13/01/2015 16:07:03] /c sorcerer 01
+[13/01/2015 16:09:05] /a 2
+[13/01/2015 16:09:10] /goto sorcerer 01
+[13/01/2015 16:09:39] /t
+[13/01/2015 16:09:41] /c sorcerer 01
+[13/01/2015 16:09:52] /a 2
+[13/01/2015 16:09:57] /n grizzly adams
+[13/01/2015 16:10:02] /n grizzly adams
+[13/01/2015 16:10:44] /reload npcs
+[13/01/2015 16:10:47] /n grizzly adams
+[13/01/2015 16:10:52] /a 2
+[13/01/2015 16:10:54] /c sorcerer 01
+[13/01/2015 16:15:47] /c druid 07
+[13/01/2015 16:16:38] /c druid 07
+[13/01/2015 16:43:03] /reload movements
+[13/01/2015 16:44:06] /a 2
+[13/01/2015 16:47:45] /i sprite wand
+[13/01/2015 16:47:54] /i icingdeath
+[13/01/2015 16:50:12] /i sprite wand
+[13/01/2015 16:50:48] /m training monk
+[13/01/2015 16:51:06] /reload mods
+[13/01/2015 16:51:23] /reload mods
+[13/01/2015 16:51:44] /reload mods
+[13/01/2015 16:51:49] /goto sorcerer 01
+[13/01/2015 16:52:15] /i sprite wand
+[13/01/2015 16:54:36] /reload weapons
+[13/01/2015 16:55:07] /i sprite wand
+[13/01/2015 16:55:13] /m monk
+[13/01/2015 16:56:09] /reload monsters
+[13/01/2015 16:56:09] /t
+[13/01/2015 16:56:13] /m training monk
+[13/01/2015 16:56:42] /m training monk
+[13/01/2015 16:56:49] /m monk
+[13/01/2015 16:57:01] /i sprite wand
+[13/01/2015 16:57:52] /i sprite wand
+[13/01/2015 16:57:58] /i wand of inferno
+[13/01/2015 16:58:10] /reload monsters
+[13/01/2015 16:58:15] /m training
+[13/01/2015 17:00:11] /i sprite wand
+[13/01/2015 17:02:42] /m monk
+[13/01/2015 17:03:11] /s orshabaal
+[13/01/2015 17:10:12] /i sprite wand
+[13/01/2015 17:10:40] /s orshabaal
+[13/01/2015 17:15:30] /i soul orb
+[13/01/2015 18:19:37] /i brown mushroom
+[13/01/2015 18:25:39] /reload talkactions
+[13/01/2015 18:25:42] /kick sorcerer 09
+[13/01/2015 18:25:47] /i soul orb
+[13/01/2015 18:26:01] /goto druid 07
+[13/01/2015 18:27:47] /reload talkactions
+[13/01/2015 18:28:47] /c druid 07
+[13/01/2015 18:28:49] /c druid 07
+[13/01/2015 18:28:50] /c druid 07
+[13/01/2015 18:29:17] /i soul orb
+[13/01/2015 18:30:28] /reload talkactions
+[13/01/2015 18:32:05] /reload talkactions
+[13/01/2015 18:35:55] /m orshabaal
+[13/01/2015 18:36:32] /addskill Lel, level, 100
+[13/01/2015 18:36:38] /addskill Lel, magic level, 60
+[13/01/2015 18:36:40] /addskill Lel, magic level, 60
+[13/01/2015 18:37:26] /c druid 07
+[13/01/2015 18:53:01] /reload spells
+[13/01/2015 18:56:43] /reload spells
+[13/01/2015 18:57:52] /reload spells
+[13/01/2015 18:59:23] /reload spells
+[13/01/2015 19:00:11] /reload spells
+[13/01/2015 19:01:03] /reload spells
+[13/01/2015 19:05:35] /reload globalevents
+[13/01/2015 19:07:05] /t
+[13/01/2015 19:07:16] /kick sorcerer 07
+[13/01/2015 19:08:43] /reload spells
+[13/01/2015 19:09:23] /reload spells
+[13/01/2015 19:10:51] /reload spells
+[13/01/2015 19:12:16] /reload globalevents
+[13/01/2015 19:12:18] /t
+[13/01/2015 19:12:31] /goto sorcerer 07
+[13/01/2015 19:12:36] /m orshabaal
+[13/01/2015 19:20:51] /reload actions
+[13/01/2015 19:22:02] /i key ring
+[13/01/2015 19:22:25] /reload items
+[13/01/2015 19:36:22] /reload npcs
+[13/01/2015 19:36:27] /n burt buy'er
+[13/01/2015 19:36:54] /n burt buyer
+[13/01/2015 19:48:58] /reload npcs
+[13/01/2015 19:49:01] /n magic matt
+[13/01/2015 19:49:20] /reload npcs
+[13/01/2015 19:49:21] /n magic matt
+[13/01/2015 19:50:37] /reload npcs
+[13/01/2015 19:58:17] /reload globalevents
+[13/01/2015 19:59:01] /reload globalevents
+[13/01/2015 20:00:48] /reload globalevents
+[13/01/2015 20:01:26] /reload globalevents
+[13/01/2015 20:01:57] /reload globalevents
+[13/01/2015 20:02:46] /reload globalevents
+[13/01/2015 20:03:00] /reload globalevents
+[13/01/2015 20:14:24] /reload spells
+[13/01/2015 20:15:31] /reload globalevents
+[13/01/2015 20:21:44] /goto druid 02
+[13/01/2015 20:25:39] /reload globalevents
+[13/01/2015 20:28:37] /goto druid 02
+[13/01/2015 20:32:59] /reload globalevents
+[13/01/2015 20:36:52] /reload config
+[13/01/2015 20:38:53] /reload spells
+[13/01/2015 20:39:19] /c sorcerer 19
+[13/01/2015 20:41:54] /i sprite wand
+[13/01/2015 20:42:35] /i
+[13/01/2015 20:42:44] /goto druid 02
+[13/01/2015 20:42:50] /goto druid 01
+[13/01/2015 20:42:56] /goto sorcerer 11
+[13/01/2015 20:43:02] /c druid 01
+[13/01/2015 20:43:58] /i magic wall rne
+[13/01/2015 20:44:01] /i magic wall rune
+[13/01/2015 20:45:52] /i time ring
+[13/01/2015 20:46:11] /addskill Sorcerer 11, level, 40
+[13/01/2015 20:46:34] /goto sorcerer 11
+[13/01/2015 20:47:22] /addskill Sorcerer 19, level, 200
+[13/01/2015 20:48:41] /addskill Sorcerer 11, level, 700
+[13/01/2015 20:48:48] /goto Sorcerer 11
+[13/01/2015 20:48:49] /goto Sorcerer 11
+[13/01/2015 20:48:50] /goto Sorcerer 11
+[13/01/2015 20:48:51] /goto Sorcerer 11
+[13/01/2015 20:48:52] /goto Sorcerer 11
+[13/01/2015 20:48:53] /goto Sorcerer 11
+[13/01/2015 20:48:54] /goto Sorcerer 11
+[13/01/2015 20:48:57] /goto Sorcerer 11
+[13/01/2015 20:49:03] /goto Sorcerer 11
+[13/01/2015 20:49:05] /addskill Sorcerer 11, level, 700
+[13/01/2015 20:49:08] /addskill Sorcerer 11, level, 700
+[13/01/2015 20:49:09] /addskill Sorcerer 11, level, 700
+[13/01/2015 20:49:12] /addskill Sorcerer 11, level, 700
+[13/01/2015 20:49:12] /addskill Sorcerer 11, level, 700
+[13/01/2015 20:49:13] /addskill Sorcerer 11, level, 700
+[13/01/2015 20:49:13] /addskill Sorcerer 11, level, 700
+[13/01/2015 20:49:29] /kick Sorcerer 19
+[13/01/2015 20:49:55] /kick Sorcerer 11
+[13/01/2015 20:54:33] /reload spells
+[13/01/2015 20:54:51] /reload spells
+[13/01/2015 20:56:20] /reload spells
+[13/01/2015 20:56:58] /reload spells
+[13/01/2015 20:57:12] /reload spells
+[13/01/2015 20:59:27] /reload spells
+[13/01/2015 21:02:47] /reload spells
+[13/01/2015 21:04:17] /reload spells
+[13/01/2015 21:31:33] /reload movements
+[13/01/2015 21:32:30] /i backpack
+[13/01/2015 21:33:59] /reload movements
+[13/01/2015 21:34:19] /i backpack
+[13/01/2015 21:36:02] /n account manager
+[13/01/2015 21:40:23] /reload npcs
+[13/01/2015 21:44:41] /reload spells
+[13/01/2015 21:44:44] /a 5
+[13/01/2015 21:45:03] /m rat
+[13/01/2015 21:45:40] /m rat
+[13/01/2015 21:45:45] /reload spells
+[13/01/2015 21:45:46] /m rat
+[13/01/2015 22:20:57] /n account manager
+[13/01/2015 22:24:51] /t
+[13/01/2015 22:25:59] /c druid 02
+[13/01/2015 23:38:07] /t
+[13/01/2015 23:38:22] /n account manager
+[13/01/2015 23:52:19] /reload creatureevents
+[13/01/2015 23:52:45] /reload creatureevents
+[13/01/2015 23:53:39] /reload creatureevents

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<houses>
+  <house name="Main Right" houseid="1" entryx="0" entryy="0" entryz="0" rent="0" guildhall="1" townid="1" size="88"/>
+  <house name="Main Left" houseid="2" entryx="0" entryy="0" entryz="0" rent="0" townid="1" size="10"/>
+  <house name="South West Plaza" houseid="3" entryx="0" entryy="0" entryz="0" rent="0" townid="1" size="84"/>
+  <house name="South Plaza 2" houseid="4" entryx="0" entryy="0" entryz="0" rent="0" townid="1" size="46"/>
+  <house name="South Plaza 1" houseid="5" entryx="0" entryy="0" entryz="0" rent="0" townid="1" size="21"/>
+  <house name="South Villa 2" houseid="6" entryx="0" entryy="0" entryz="0" rent="0" townid="1" size="61"/>
+  <house name="South Villa 1" houseid="8" entryx="0" entryy="0" entryz="0" rent="0" townid="1" size="57"/>
+  <house name="South East Plaza" houseid="9" entryx="0" entryy="0" entryz="0" rent="0" townid="1" size="59"/>
+  <house name="South East Flat" houseid="10" entryx="0" entryy="0" entryz="0" rent="0" townid="1" size="65"/>
+  <house name="South East Flat 3" houseid="15" entryx="0" entryy="0" entryz="0" rent="0" townid="1" size="26"/>
+  <house name="South East Flat 4" houseid="16" entryx="0" entryy="0" entryz="0" rent="0" townid="1" size="26"/>
+  <house name="South East Flat 5" houseid="17" entryx="0" entryy="0" entryz="0" rent="0" townid="1" size="6"/>
+  <house name="South East Flat 6" houseid="18" entryx="0" entryy="0" entryz="0" rent="0" townid="1" size="23"/>
+  <house name="South East Flat 7" houseid="19" entryx="0" entryy="0" entryz="0" rent="0" townid="1" size="9"/>
+  <house name="South East Flat 8" houseid="20" entryx="0" entryy="0" entryz="0" rent="0" townid="1" size="9"/>
+  <house name="South East Flat 9" houseid="21" entryx="0" entryy="0" entryz="0" rent="0" townid="1" size="9"/>
+  <house name="South East Flat 10" houseid="22" entryx="0" entryy="0" entryz="0" rent="0" townid="1" size="10"/>
+  <house name="South East Flat 11" houseid="23" entryx="0" entryy="0" entryz="0" rent="0" townid="1" size="10"/>
+  <house name="South East Flat 12" houseid="24" entryx="0" entryy="0" entryz="0" rent="0" townid="1" size="29"/>
+  <house name="South East Flat 13" houseid="25" entryx="0" entryy="0" entryz="0" rent="0" townid="1" size="29"/>
+  <house name="South East Flat 14" houseid="26" entryx="0" entryy="0" entryz="0" rent="0" townid="1" size="19"/>
+</houses>

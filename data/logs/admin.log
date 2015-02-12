@@ -1,0 +1,17 @@
+[10/12/2014 14:01:48] (Error - void ServicePort::open(uint16_t)) NETWORK: The requested address is not valid in its context
+[10/12/2014 14:02:01] (Error - void ServicePort::open(uint16_t)) NETWORK: The requested address is not valid in its context
+[10/12/2014 14:02:21] (Error - void ServicePort::open(uint16_t)) NETWORK: The requested address is not valid in its context
+[10/12/2014 14:03:02] (Error - void ServicePort::open(uint16_t)) NETWORK: The requested address is not valid in its context
+[10/12/2014 14:03:38] (Error - void ServicePort::open(uint16_t)) NETWORK: The requested address is not valid in its context
+[10/12/2014 14:04:01] (Error - void ServicePort::open(uint16_t)) NETWORK: The requested address is not valid in its context
+[10/12/2014 14:04:26] (Error - void ServicePort::open(uint16_t)) NETWORK: The requested address is not valid in its context
+[10/12/2014 14:05:20] (Error - void ServicePort::open(uint16_t)) NETWORK: The requested address is not valid in its context
+[10/12/2014 14:05:39] (Error - void ServicePort::open(uint16_t)) NETWORK: The requested address is not valid in its context
+[10/12/2014 14:51:25] (Error - void ServicePort::open(uint16_t)) NETWORK: The requested address is not valid in its context
+[10/12/2014 14:58:39] (Error - void ServicePort::open(uint16_t)) NETWORK: The requested address is not valid in its context
+[16/01/2015 00:31:33] (Error - void ServicePort::open(uint16_t)) NETWORK: Address already in use
+[16/01/2015 00:31:47] (Error - void ServicePort::open(uint16_t)) NETWORK: Address already in use
+[16/01/2015 00:31:54] (Error - void ServicePort::open(uint16_t)) NETWORK: Address already in use
+[16/01/2015 00:32:24] (Error - void ServicePort::open(uint16_t)) NETWORK: Address already in use
+[16/01/2015 00:33:53] (Error - void ServicePort::open(uint16_t)) NETWORK: Address already in use
+[16/01/2015 13:27:46] (Error - void ServicePort::open(uint16_t)) NETWORK: Address already in use
